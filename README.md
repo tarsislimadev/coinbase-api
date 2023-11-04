@@ -22,6 +22,8 @@ API_PATH=
 
 ## how to use
 
+### list portfolios
+
 ```
 bash ./src/portfolios.sh 
 ```
