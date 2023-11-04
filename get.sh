@@ -6,7 +6,7 @@
 
 API_PATH="${1}"
 
-curl -X GET \
+curl -sL -X GET \
   -H "X-CB-ACCESS-KEY: ${ACCESS_KEY}" \
   -H "X-CB-ACCESS-PASSPHRASE: ${PASSPHRASE}" \
   -H "X-CB-ACCESS-SIGNATURE: ${SIGNATURE}" \
