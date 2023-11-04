@@ -10,6 +10,16 @@ To get data from Coinbase API
 
 ## how to install
 
+### .env file
+
+```
+ACCESS_KEY=
+PASSPHRASE=
+SIGNATURE=
+API_PATH=
+
+```
+
 ## how to use
 
 ## license
