@@ -22,6 +22,10 @@ API_PATH=
 
 ## how to use
 
+```
+bash ./src/portfolios.sh 
+```
+
 ## license
 
 [MIT](./LICENSE)
